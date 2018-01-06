@@ -13,7 +13,7 @@ Java (1.7 or later)
 ### Compiling
 To compile the code in a UNIX terminal or Windows PowerShell, run the following command from inside the ```src``` directory:
 ```
-$ java driver/JShell.java
+$ javac driver/JShell.java
 ```
 
 ### Running
@@ -41,7 +41,7 @@ List of commands available in JShell:
 * pushd
 * pwd
 
-Details on how to use each command can be found in the program by using the command:
+Details on the usage of each command can be found in the program by using the command:
 ```
 JShell$ man CMD
 ```
