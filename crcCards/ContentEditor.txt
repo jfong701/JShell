@@ -1,0 +1,9 @@
+Class name: ContentEditor
+
+Responsibilities:
+* Modify a file's data
+* Modify a content's path
+
+Collaborators:
+* File
+* Folder

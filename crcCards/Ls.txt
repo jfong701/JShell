@@ -1,0 +1,12 @@
+Class Name: Ls
+Parent Class: Command
+
+Responsibilities:
+* Display content in the current directory
+* Display content with a given path
+* Displays all content of a directory and its subdirectories
+
+Collaborators:
+* Content
+* FileSystem
+* PrintFormatter

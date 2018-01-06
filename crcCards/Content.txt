@@ -1,0 +1,8 @@
+Class name: Content
+Subclasses: Folder, File
+
+Responsibilities:
+* Keeping its path
+* Return its path
+
+Collaborators:

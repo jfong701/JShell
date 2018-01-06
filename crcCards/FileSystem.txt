@@ -1,0 +1,10 @@
+Class Name: FileSystem
+
+Responsibilities:
+* File and directory operations
+
+Collaborators:
+* Content
+   - File
+   - Folder
+* DirectoryStack

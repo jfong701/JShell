@@ -1,0 +1,6 @@
+Class name: DirectoryStack
+
+Responsibilities:
+* Keeps a stack of directories
+
+Collaborators:

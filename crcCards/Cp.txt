@@ -1,0 +1,8 @@
+Class name: Cp
+Parent class: Command
+
+Responsibilities:
+* Create a copy of a content and put it into a user specified directory
+
+Collaborators:
+* FileSystem

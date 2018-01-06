@@ -1,0 +1,8 @@
+Class name: Mkdir
+Parent class: Command
+
+Responsibilities:
+* Create new directory in the file system
+
+Collaborators:
+* FileSystem

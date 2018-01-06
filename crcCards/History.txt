@@ -1,0 +1,10 @@
+Class Name: History
+Parent Class: Command
+
+Responsibilities:
+* Execute history command
+* Lists all or recent command history
+
+Collaborators:
+* CommandHistory
+* PrintFormatter

@@ -1,0 +1,11 @@
+Class name: CommandInterpreter
+
+Responsibility:
+* Interprets and formats user input into commands
+
+Collaborators:
+* FileSystem
+* PrintFormatter
+* DirectoryStack 
+* ContentEditor
+* CommandHistory history;

@@ -1,0 +1,6 @@
+Class name: Documentation
+
+Responsibilities:
+* Give documentation for a specified command
+
+Collaborators:

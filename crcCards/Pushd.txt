@@ -1,0 +1,9 @@
+Class name: Pushd
+Parent Class: Command
+
+Responsibilities:
+* Push current directory onto stack, switch to specified directory
+
+Collaborators:
+* DirectoryStack
+* FileSystem

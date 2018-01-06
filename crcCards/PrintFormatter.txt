@@ -1,0 +1,7 @@
+Class name: PrintFormatter
+
+Responsibility:
+* Prints and formats output to user
+
+Collaborators:
+N/A

@@ -1,0 +1,9 @@
+Class name: Pwd
+Parent class: Command
+
+Responsibilities:
+* Print the current working directory to user
+
+Collaborators:
+* FileSystem
+* PrintFormatter

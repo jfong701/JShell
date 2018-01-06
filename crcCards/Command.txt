@@ -1,0 +1,8 @@
+Class name: Command
+Subclasses: Cat, Cd, Command, Cp, Curl, Echo, Grep, History, Ls, Man, Mkdir
+... Mv, Popd, Pushd, Pwd, Recall
+
+Responsibilities:
+* Take in user command and execute it
+
+Collaborators:

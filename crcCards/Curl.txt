@@ -1,0 +1,11 @@
+Class name: Curl
+Parent Class: Command
+
+Responsibilities:
+* Retrieve a file from the internet
+* Write internet file to local File Object
+
+Collaborators:
+* DirectoryStack
+* FileSystem
+* File

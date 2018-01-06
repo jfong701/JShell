@@ -1,0 +1,8 @@
+Class name: Cd
+Parent class: Command
+
+Responsibilities:
+* Change the current working path to a different one
+
+Collaborators:
+* FileSystem

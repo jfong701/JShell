@@ -1,0 +1,10 @@
+Class name: Mv
+Parent class: Command
+
+Responsibilities:
+* Move a content to another directory
+* Rename a content
+
+Collaborators:
+* FileSystem
+* Cp

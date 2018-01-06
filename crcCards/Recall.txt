@@ -1,0 +1,10 @@
+Class name: Recall
+Parent class: Command
+
+Responsibilities:
+* Execute a command stored in history
+
+Collaborators:
+* CommandHistory
+* CommandInterpreter
+* CommandExecution

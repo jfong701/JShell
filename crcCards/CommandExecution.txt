@@ -1,0 +1,12 @@
+Class Name: CommandExecution
+
+Responsibilities:
+* Allows for the execution of valid commands 
+* Calling different methods throughout different classes
+
+Collaborators:
+* FileSystem
+* PrintFormatter
+* DirectoryStack 
+* ContentEditor
+* CommandHistory 

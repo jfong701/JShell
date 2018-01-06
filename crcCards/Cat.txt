@@ -1,0 +1,9 @@
+Class name: Cat
+Parent class: Command
+
+Responsibilities:
+* Print the content of a file
+
+Collaborators:
+* FileSystem
+* PrintFormatter

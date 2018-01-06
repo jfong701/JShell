@@ -1,0 +1,13 @@
+Class Name: Echo
+Parent Class: Command
+
+Responsibilities:
+* Print a given text on the shell
+* Overwrite text content in a file with a given text
+* Append text content in a file with a given text
+
+Collaborators:
+* File
+* ContentEditor
+* FileSystem
+* PrintFormatter

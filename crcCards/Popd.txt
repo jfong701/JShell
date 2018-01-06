@@ -1,0 +1,10 @@
+Class name: Popd
+Parent Class: Command
+
+Responsibilities:
+* Pop top entry from a DirectoryStack and change directory into it
+
+Collaborators:
+* DirectoryStack
+* FileSystem
+* Folder

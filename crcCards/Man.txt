@@ -1,0 +1,8 @@
+Class name: Man
+Parent Class: Command
+
+Responsibilities:
+* Print out documentation for a given command
+
+Collaborators:
+* PrintFormatter

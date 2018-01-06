@@ -1,0 +1,6 @@
+Class Name: UI
+
+Responsibilities:
+* Reads/take input commands from user
+
+Collaborators:

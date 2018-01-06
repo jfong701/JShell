@@ -1,0 +1,7 @@
+Class name: Folder
+Parent class: Content
+
+Responsibilities:
+* Keeping a list of files/ folders
+
+Collaborators:

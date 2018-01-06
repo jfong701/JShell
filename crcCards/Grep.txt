@@ -1,0 +1,13 @@
+Class name: Grep
+Parent Class: Command
+
+Responsibilities:
+* Search for a regex in a file
+* Search for a regex in a file inside of a folder
+
+Collaborators:
+* Content
+* File
+* FileSystem
+* Folder
+* PrintFormatter

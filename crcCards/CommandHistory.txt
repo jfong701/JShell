@@ -1,0 +1,8 @@
+Class Name: CommandHistory
+
+Responsibilities:
+* Stores all user input
+* List previous invalid or valid commands that were recently invoked
+
+Collaborators:
+* N/A

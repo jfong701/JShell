@@ -1,0 +1,8 @@
+Class name: File
+Parent class: Content
+
+Responsibilities:
+* Keeping its data
+* Return its data
+
+Collaborators:
